@@ -1,0 +1,7 @@
+# HyperFrames working files (snapshots, check reports, raw renders)
+hero-film/.hyperframes/
+hero-film/renders/
+node_modules/
+.claude/
+.DS_Store
+Thumbs.db
